@@ -37,7 +37,7 @@ pipeline {
             }
         }
     }
-}
+    
 post {
         always {
             echo "Always display this message "
